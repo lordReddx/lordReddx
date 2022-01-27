@@ -7,6 +7,6 @@
 - 💬 Ask me about your boring life.
 - 📫 How to reach me: You can find me on this Discord server: https://discord.gg/M5pGCYDsVn my nickname is RePoweRED#3840.
 - 😄 Pronouns: Metal man.
-- ⚡ Fun fact: I can give you a little translation.
+- ⚡ Fun fact: I don't know what to write here.
 
 ![floppa!](https://github.com/lordReddx/pics/blob/main/CPYJC6Z-1.png)
