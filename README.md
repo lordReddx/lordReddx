@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on good projects.
 - 🤔 I’m looking for help with code.
 - 💬 Ask me how to live.
-- 📫 How to reach me: You can find me on this Discord server: [https://discord.gg/M5pGCYDsVn](https://discord.gg/H9d7ZACXTr) my nickname is RePoweRED.
+- 📫 How to reach me: You can find me on this Discord server: [https://discord.gg/M5pGCYDsVn](https://discord.gg/H9d7ZACXTr) my nickname is ".repowered" (RedHotFox).
 - 😄 Pronouns: You know.
 - ⚡ Fun fact: You don't know how to see sunset of world.
