@@ -1,10 +1,18 @@
-### Hi there! How do you do?
+## Hi stranger! 
 
-- 🔭 I’m currently working on something (mindustry or not).
-- 🌱 I’m currently learning something.
-- 👯 I’m looking to collaborate on good projects.
-- 🤔 I’m looking for help with code.
-- 💬 Ask me how to live.
-- 📫 How to reach me: You can find me on this Discord server: [https://discord.gg/M5pGCYDsVn](https://discord.gg/H9d7ZACXTr) my nickname is ".repowered" (RedHotFox).
-- 😄 Pronouns: You know.
-- ⚡ Fun fact: You don't know how to see sunset of world.
+My name is [secret](https://github.com/lordReddx).<p>
+
+I'am a bit of mindustry modder and spriter.<p>
+RU - EN translator<p>
+I can help with code or sprites in mindustry.<p>
+My current work is [Halo](https://github.com/lordReddx/Halo) project for [Mindustry](https://github.com/Anuken/Mindustry).<p>
+
+You can find me on my Discord server: [Red Fox Industries](https://discord.gg/YkPWUQ8PqT).<p>
+My nickname is RedHotFox (@.repowered").<p>
+
+
+
+<details>
+  <summary>note</summary>
+  You don't know how to see sunset of world.
+</details>
