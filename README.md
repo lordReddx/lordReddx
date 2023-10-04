@@ -8,7 +8,7 @@ I can help with code or sprites in mindustry.<p>
 My current work is [Halo](https://github.com/lordReddx/Halo) project for [Mindustry](https://github.com/Anuken/Mindustry).<p>
 
 You can find me on my Discord server: [JetFox](https://discord.gg/YkPWUQ8PqT).<p>
-My nickname is RedHotFox (@.repowered").<p>
+My nickname is RedHotFox (@.repowered).<p>
 
 
 
